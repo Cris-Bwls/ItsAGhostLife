@@ -592,3 +592,6 @@ $RECYCLE.BIN/
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 
 # End of https://www.gitignore.io/api/unity,csharp,windows,visualstudio
+Ludum Dare 45 - It's a ghost life/Build/
+
+Ludum Dare 45 - It's a ghost life/Library/
